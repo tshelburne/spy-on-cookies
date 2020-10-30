@@ -21,7 +21,7 @@ function spyOnCookies() {
 	return {
 		calls,
 		restore() {
-			cookies = []
+			calls = []
 			Object.defineProperty(document, 'cookie', {...rest, set})
 			wrapped = false
 		}
