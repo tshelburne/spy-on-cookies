@@ -1,6 +1,6 @@
 {
   "name": "spy-on-cookies",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Enables no-dependency spying on document.cookie",
   "main": "index.js",
   "scripts": {
