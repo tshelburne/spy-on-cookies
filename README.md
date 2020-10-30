@@ -1,8 +1,6 @@
 spy-on-cookies
 ==============
 
-[![CircleCI](https://circleci.com/gh/tshelburne/spy-on-cookies.svg?style=svg)](https://circleci.com/gh/tshelburne/spy-on-cookies)
-
 A quick way to spy on `document.cookie`, which is more difficult than usual. If you write something that works directly with the `document.cookie` browser API, and you want to test it, you will need this - it's basically impossible to get configuration back out of `document.cookie`.
 
 ## Usage
