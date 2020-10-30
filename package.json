@@ -1,0 +1,25 @@
+{
+  "name": "spy-on-cookies",
+  "version": "0.1.0",
+  "description": "Enables no-dependency spying on document.cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshelburne/spy-on-cookies.git"
+  },
+  "keywords": [
+    "spy",
+    "test",
+    "cookie",
+    "document.cookie"
+  ],
+  "author": "Tim Shelburne <shelburt02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tshelburne/spy-on-cookies/issues"
+  },
+  "homepage": "https://github.com/tshelburne/spy-on-cookies#readme"
+}
