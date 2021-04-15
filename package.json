@@ -2,10 +2,13 @@
   "name": "spy-on-cookies",
   "version": "0.1.2",
   "description": "Enables no-dependency spying on document.cookie",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tshelburne/spy-on-cookies.git"
